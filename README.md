@@ -26,9 +26,9 @@
 
 [📜 프로젝트 기획서 정리 페이지](https://www.notion.so/2647514755fd8084ab83dcbf19d54893?pvs=21)PPT 발표자료 : 구글드라이브 PPT(클릭)
 
-🥢유즈케이스 : https://lucid.app/lucidchart/b909afd5-9354-43f5-b2cc-7b89a1140c37/edit?viewport_loc=-1052%2C-132%2C3450%2C1481%2C.Q4MUjXso07N&invitationId=inv_041ce348-925b-49e4-a3b7-ee50cf57cd41 V2 가로로 만든 버전
+🥢유즈케이스 : [V1](https://lucid.app/lucidchart/b909afd5-9354-43f5-b2cc-7b89a1140c37/edit?viewport_loc=-1052%2C-132%2C3450%2C1481%2C.Q4MUjXso07N&invitationId=inv_041ce348-925b-49e4-a3b7-ee50cf57cd41)
 
-클래스 다이어그램 : 📔 https://lucid.app/lucidchart/0918bfee-611d-484b-87a4-4d97c62038db/edit?viewport_loc=-799%2C-64%2C3103%2C1332%2CHWEp-vi-RSFO&invitationId=inv_85352419-f5af-4bf8-91c7-a19222b2d0d7 주소 링크
+클래스 다이어그램 : [V2](https://lucid.app/lucidchart/0918bfee-611d-484b-87a4-4d97c62038db/edit?viewport_loc=-799%2C-64%2C3103%2C1332%2CHWEp-vi-RSFO&invitationId=inv_85352419-f5af-4bf8-91c7-a19222b2d0d7)
 
 ### 프로젝트 세팅
 
